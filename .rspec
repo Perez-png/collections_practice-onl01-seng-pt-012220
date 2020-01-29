@@ -1,7 +1,13 @@
 def sort_array_asc
-  puts [1,2,3,4,5]
+  puts [1,2,3,4,5].sort_array_asc
   
   end
+
+def sort_array_desc
+  puts [5,4,3,2,1].sort_array_desc
   
+  end
+
+
 --color
 --format documentation
