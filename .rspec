@@ -18,7 +18,10 @@ def #sort_array_char_count
   
   end
   
-swap_elements_from_to(["a","b","c"],0,2
+swap_elements_from_to(["a","b","c"],0,2)
+  end
+  
+swap_elements_from_to(["a","b","c"],2,1) 
   end
   
   
