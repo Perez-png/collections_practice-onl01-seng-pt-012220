@@ -1,4 +1,4 @@
-
+require pry
 Become proficient at manipulating arrays
 Practice using higher level Ruby enumerators like .collect and .sort
 Instructions
