@@ -1,13 +1,18 @@
-def sort_array_asc
+def #sort_array_asc
   puts [1,2,3,4,5].sort_array_asc
   
   end
 
-def sort_array_desc
+def #sort_array_desc
   puts [5,4,3,2,1].sort_array_desc
   
   end
 
-
+def #sort_array_char_count
+  puts [1,2,3,4,5].sort_array_char_count
+  
+  end
+  
+  
 --color
 --format documentation
